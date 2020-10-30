@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  return {:me, "you"}
+  my_hash = {:me, "you"}
 end
 
 def pioneer
